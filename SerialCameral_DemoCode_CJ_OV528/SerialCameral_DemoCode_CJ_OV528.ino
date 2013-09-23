@@ -1,9 +1,4 @@
-//  File SerialCamera_DemoCode_CJ-OV528.ino
-//  8/8/2013 Jack Shao
-//  Demo code for using seeeduino or Arduino board to cature jpg format
-//  picture from seeed serial camera and save it into sd card. Push the
-//  button to take the a picture .
-//  For more details about the product please check http://www.seeedstudio.com/depot/
+ 
 
 #include <arduino.h>
 #include <SD.h>
